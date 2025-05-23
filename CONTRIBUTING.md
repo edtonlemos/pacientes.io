@@ -22,7 +22,7 @@ Use o seguinte formato:
 ### Tecnologias:
 
 - `fed` — Frontend (Angular)
-- `srv` — Backend (Microserviços)
+- `srv` — Backend (Microserviços - Java 17)
 - `devops` — Infraestrutura (Docker, CI/CD)
 
 **Exemplos:**  
